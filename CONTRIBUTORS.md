@@ -514,8 +514,3 @@
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
 
-#### Name: MahnoorShoukat](https://github.com/MahnoorShoukat)
-
-- Place: Islamabad, Pakistan
-- Bio: I'm a software engineering student and tech enthusiastic
-- GitHub: [MahnoorShoukat](https://github.com/MahnoorShoukat)
