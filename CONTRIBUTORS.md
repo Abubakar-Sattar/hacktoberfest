@@ -1,3 +1,9 @@
+#### Name: [Zain Ali Shah](https://github.com/ShawFromAttock)
+
+- Place: Islamabad, Pakistan
+- Bio: Computer Engineering Student at COMSATS Islamabad
+- GitHib: [ShawFromAttock](https://github.com/ShawFromAttock)
+- 
 #### Name: [Jason Chen](https://github.com/jnchen12a)
 
 - Place: Gainesville, FL, USA
